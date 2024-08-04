@@ -1,0 +1,26 @@
+body {
+    width: 300px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+#timer {
+    font-size: 36px;
+    margin: 20px 0;
+    cursor: text;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
